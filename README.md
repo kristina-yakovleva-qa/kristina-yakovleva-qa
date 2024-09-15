@@ -86,8 +86,8 @@
 <br>
 
 ## 🎒 Образование
-[<img src="/diploma_en.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/German-D/German-D/main/diploma_en.png)
-[<img src="/recommendation_qa.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/German-D/German-D/main/recommendation_qa.png)
+[<img src="/kristina_jakovleva_certificate_139_hours_ru — копия.jpg" width="280px" hspace="10px" alt="Сертификат»">]([https://raw.githubusercontent.com/German-D/German-D/main/diploma_en.png](https://raw.githubusercontent.com/kristina-yakovleva-qa/kristina-yakovleva-qa/main/kristina_jakovleva_certificate_139_hours_ru%20—%20копия.jpg))
+
 
 <br>
 <br>
